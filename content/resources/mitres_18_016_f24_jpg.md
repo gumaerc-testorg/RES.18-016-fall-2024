@@ -2,19 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-18-016-multivariable-calculus-recitation-notes-fall-2024/mitres_18_016_f24_v2.jpg
-file_size: 68831
+file: /ol-ocw-studio-app/courses/res-18-016-multivariable-calculus-recitation-notes-fall-2024/mitres_18_016_f24.jpg
+file_size: 97844
 file_type: image/jpeg
 image_metadata:
-  caption: Illustration of the flux of a vector field through a parametrized surface.
-    (Image courtesy of Dr. Evan Chen.)
+  caption: ''
   credit: ''
-  image-alt: 'The image features a computer screen with a diagram of a wave. '
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
-title: mitres_18_016_f24_v2.jpg
-uid: fe7cf72c-ba69-4c71-b561-7eea9aafd472
+title: mitres_18_016_f24.jpg
+uid: 26502f98-0692-414b-9a6b-32d05aadb824
 video_files:
   archive_url: ''
   video_captions_file: ''
