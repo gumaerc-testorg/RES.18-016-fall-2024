@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/multivariable-calculus-recitation-notes/mitres_18_016_f24.jpg
+file: /ol-ocw-studio-app/courses/res-18-016-multivariable-calculus-recitation-notes-fall-2024/mitres_18_016_f24.jpg
 file_size: 97844
 file_type: image/jpeg
 image_metadata:
