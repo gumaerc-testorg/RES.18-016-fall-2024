@@ -36,10 +36,12 @@
   "extra_course_numbers": "",
   "primary_course_number": "RES.18-016",
   "learning_resource_types": [
-    "Recitation Notes",
+    "Problem-solving Notes",
     "Lecture Notes",
-    "Problem Sets with Solutions"
+    "Problem Sets with Solutions",
+    "Open Textbooks"
   ],
   "site_uid": "23464d70-aef0-4fcd-b02f-2c78e750429e",
-  "site_short_id": "RES.18-016-fall-2024"
+  "site_short_id": "RES.18-016-fall-2024",
+  "site_url_path": "courses/res-18-016-multivariable-calculus-recitation-notes-fall-2024"
 }
